@@ -1,0 +1,67 @@
+/*
+    Very Basic
+    Section 1 - Lecture 3
+*/
+
+Substantives (noun), Verbs, etc...
+
+Substantive (Noun):
+    A substantive (it can also be called a "name") refers to one thing - a person, an object, an idea.
+
+        Examples of Substantives:
+            dog, house, apple, table, boy, water, street.
+
+        Sustantives more abstracts:
+            love, freedom, happiness, knowledge
+
+        own names:
+            they refer to specific and unique things:
+                London, Mary, the President, Spain, Christmas
+
+Verb:
+    Describes an Action:
+
+        walk, run, sleep, eat, do, speak, try, etc.
+
+    there are also auxiliary verbs that do not describe literal actions, but rather are used to form verb tenses.
+          later we will see the use of: do, does and did
+
+    Modal verbs are to give nuances to verbs: should for suggestions, can for skills, etc.
+
+Adjectives:
+    the adjectives describe the nouns and they go before the noun (or a sentence after the verb to be)
+
+        Examples of adjectives:
+
+            A black cat
+            A big house
+            A small car
+            A sunny day
+
+Masculine and Femenine
+    In English, the objects are neither masculine nor feminine
+    the adjectives are then neutral and always unique
+        Examples:
+            Two big Sandwiches (Dos Bocadillos Grandes)
+            Three easy questions (Tres preguntas faciles)
+            Four interesting books (Esos cuatro libros interesantes)
+
+Personal Pronouns
+    Are:
+
+    I (Yo)
+    You (tú, usted, vosotros, ustedes)
+    He (Él)
+    She (Ella)
+    It (Ello, Eso (Things without genre))
+    We (Nosotros)
+    They (Ellos, Ellas)
+
+Structure of Phrases
+    In English, phrases tend to follow the subject-verb-complement. the subject is mandatory
+        Example:
+            She ate the sandwich (Ella comió el sandwich)
+
+    Also is very common use an subject - verb - phrase prepositional
+        Example:
+            She lives in london
