@@ -1,0 +1,69 @@
+/*
+    Countries Nationalities Languages
+    Section 2 - Lecture 11
+*/
+Countries, nationalities and languages are always in upper case
+
+    Never:
+        english
+
+    Sometimes the nationality and the language are the same word: English. French. German (other times not)
+
+        In Germany, they speak German.
+        In Brazil, thet speak Portuguese.
+
+Countries and Nationalities
+
+    Mexico ... Mexican
+    China ... Chinese
+    Japan ... Japanese
+    England ... English
+    Spain ... Spanish
+    Germany ... German
+    Italy ... Italian
+    Sweden ... Swedish
+    Columbia ... Columbian
+    India ... Indian
+    France ... French
+    Korea ... Korean
+    Argentina ... Argentinian
+    Turkey ... Turkish
+
+Languages
+
+    English
+    French
+    Spanish (Castilian)
+    German
+    Italian
+    Chinese (Mandarin)
+    Arabic
+    Russian
+    Portuguese
+    Japanese
+    Swahili
+    Tagalog
+    Dutch
+    Greek
+
+Phrases
+    View the book for the complete list of countries and nationalities. here some examples of phrases:
+
+    They're German. They're from Germany.
+    In France they speak French.
+    In the USA, people speak English, Spanish and many other languages.
+    In Ireland, they speak English and Gaelic.
+    In Italy, they speak Italian
+
+Questions:
+
+    Q: Where are you from?
+    A: I'm from California. I'm American.
+
+    Q: Where are they from?
+    A: They're from Cairo. They're Egyptian.
+
+    Q: Where are your parents from?
+    A: My parents are Swedish. They moved to England after they got married.
+
+
