@@ -1,0 +1,113 @@
+/*
+    Numbers
+    Section 3 - Lecture 14
+*/
+From one to twenty
+    1  = one            11 = eleven
+    2  = two            12 = twelve
+    3  = three          13 = thirteen 
+    4  = four           14 = fourteen
+    5  = five           15 = fifteen
+    6  = six            16 = sixteen
+    7  = seven          17 = seventeen
+    8  = eight          18 = eighteen
+    9  = nine           19 = nineteen
+    10 = ten            20 = twenty
+
+More numbers
+    21 = twenty-one      101 = one hundred and one
+    22 = twenty-two      129 = one hundred and twenty nine
+    23 = twenty-three    200 = two hundred
+    30 = thirty         
+    40 = forty
+    50 = fifty
+    60 = sixty
+    70 = seventy
+    80 = eighty
+    90 = ninety
+    100 = one hundred
+
+The numbers of twenty-one(21) to ninety-nine use hyphen(-)
+    31 = thirty-one
+    42 = forty-two
+    59 = fifty-nine
+    65 = sixty-five
+    88 = eighty-eight
+    97 = ninety-seven
+    156 = one hundred and fifty-six
+
+Bigger numbers
+    The bigger numbers are:
+        100 = a hundred
+        1.000 = a thousand
+        1.000.000 = a million
+        1.000.000.000 = a billion
+
+    after, all is combine them
+        12.000 = twelve thousand
+        20.000 = twenty thousand
+        24.500 = twenty-four thousand five hundred
+        24.575 = twenty-four thousand five hundred seventy five
+
+Very Big Numbers
+    Even very large numbers are combinations of smaller numbers
+        600.000 = six hundred thousand
+        947.000 = nine hundred fourty-seven thousand
+        6.455.000 = six million four hundred fifty-five thousand
+        122.000.000 = one hundred twenty-two million
+
+    Also we make millions and billions with decimals
+        1.7 million = one point seven million
+        65.5 million = sixty-five point five million
+        2.2 billion = two point two billion
+
+    How would you say these numbers?
+        99 = ninety-nine
+        135 = one hundred thirty-five
+        200 = two hundred
+        220 = two hundred twenty
+        650 = six hundred fifty
+        999 = nine hundred ninety-nine
+        1.200 = one thousand two hundred
+        1.260 = one thousand two hundred sixty
+        2.900 = two thousand nine hundred
+        3.431 = three thousand four hundred thirty-one
+        7.545 = seven thousand five hundred fourty-five
+        12.650 = twelve thousand six hundred fifty
+        25.000 = twenty-five thousand
+        250.000 = two hundred fifty thousand
+
+Decimals
+    The decimal in english it says "point".
+    2.2 kilometers
+    1.5 million dollars
+    39.2 centimeters
+    8.8 kilograms
+    4.9 percent
+    5.5 miles
+    18.5 inches
+
+Dot, period, full stop
+    The point have other names depending the context
+        On web addresses: google.com (dot com)
+        At the end of phrase we call "period" (Americans) or "full stop" (Europeans)
+
+Prices
+    The simplest thing with the prices is to say something like "three (dollars) fifty"
+    You can also hear "three dollars and fifty cents"
+    With Dollars
+        $1,99 = one ninety-nine
+        $17,99 = seventeen ninety-nine
+        $67 = sixty-seven dollars
+        $225 = two hundred twenty-five dollars
+        $1.700 = one thousand seven hundred dollars (seventeen hundred)
+        99 c = ninety-nine cents
+
+    With Pounds
+        £6.75 = six pounds seventy-five 
+        £24.50 = twenty-four pounds fifty
+        £182 = one hundred eighty-two pounds
+        £450.000 = four hundred fifty thousand pounds
+        75p = seventy-five p 
+
+    with euros it is the same
