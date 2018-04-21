@@ -1,0 +1,53 @@
+/*
+    The Hour
+    Section 3 - Lecture 16
+*/
+The simplified Hour
+    Here we see the form USA use them
+        6:10 = six ten
+        7:20 = seven twenty
+        8:30 = eight thirty
+        9:40 = nine forty
+        10:50 = ten fifty
+        11:00 = eleven o'clock
+
+    the hours are counted from 1 to 12 and the minutes from 01 to 59
+        12:01 = twelve - oh - one
+        3:05 = three - oh - five
+        5:09 = five - oh - nine
+        11:59 = eleven fifty-nine
+        7:47 = seven forty-seven
+        6:35 = six thirty-five
+
+O'clock, AM, PM
+    the word "o'clock" its a small form of "of the clock" and used for the o'clock hour.
+        It's seven o'clock
+    Also used AM for the morning (from the 12 of the midnight to the 12 of midday) and PM for the afternoon and night
+        I always get up at 7 AM and go to the bed at 11 PM
+        She usually starts work at 6 AM and finishes at 6 PM
+
+        Morning = (12 midnight to 12 midday)
+        Afternoon = (12 midday to 6 pm)
+        Evening = (6pm to 12 midnight)    
+
+Questions and Answers
+    Q: What time is it?
+    A: It's 12:30
+
+    Q: What time does the train leave?
+    A: The train leaves at 8:45
+
+    Q: Do you usually get up at 6 AM?
+    A: No, i don't. i usually get up at 7 AM
+
+    Q: What time do you finish work?
+    A: I finish work at 7 PM
+
+How would you say these hours?
+    11:20
+    10:40
+    6:45 AM
+    9:29
+    5:30
+    6:22
+    7:50 PM
