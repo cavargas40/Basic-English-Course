@@ -1,0 +1,97 @@
+/*
+    Ordinal Numbers and Dates
+    Section 3 - Lecture 15
+*/
+Basic Ordinal Numbers
+    primero = first (1st)
+    segundo = second (2nd)
+    tercero = third (3rd)
+    cuarto = fourt (4th)
+    quinto = fifth (5th)
+    sexto = sixth (6th)
+    septimo = seventh (7th)
+    octavo = eighth (8th)
+    novano = ninth (9th)
+    decimo = tenth (10th)
+    eleventh (11th)
+    twelfth (12th)
+    thirteenth (13th)
+    fourteenth (14th)
+
+More ordinals...
+    fifteenth (15th)
+    sixteenth (16th)
+    seventeenth (17th)
+    eighteenth (18th)
+    nineteenth (19th)
+    twentieth (20th)
+    twenty-first (21st)
+    twenty-second (22nd)
+    twenty-third (23rd)
+    twenty-fourth (24th)
+    twenty-fifth (25th)
+    thirdtieth (30th)
+    thirty-first (31st)
+    thirty-second (32nd)
+
+Dates
+    the dates in English are distincts. the more easy is the format "month + ordinal number"
+        Examples:
+            November eleventh
+            December first
+            January twenty-ninth
+
+    you can also do the format "the + ordinal number + of + month"
+        Examples:
+            the 29th of November
+            the 11th of April
+
+    Many ways
+        There are several ways to write the date, but always when speaking the ordinal number is used
+            18 Feb ... 18 February ... February 18 ... 2/18 (US) ... 18/2 (UK) etc
+        To say "February 18th" o bien "the eighteenth of February"
+
+    The Months
+    Always in Capital!!
+        January
+        February
+        March
+        April
+        May
+        June
+        July
+        August
+        September
+        October
+        November
+        December
+    
+    The days of the week
+    Also in Capital!
+        Monday
+        Tuesday
+        Wendnesday      //this fifth days are work days
+        Thursday
+        Friday
+        Saturday   //the weekend
+        Sunday     //the weekend 
+
+    More...
+        The days of the week are always written in Capital letters
+        the preposition "on" is used, on Friday, on Saturday, etc...
+            I'll see you on Friday
+            I went to the doctor on Monday
+            She always works on Saturdays
+            I'll see you this weekend (US)
+            I'll see you at the weekend (UK)
+    
+    Examples of Dates
+        Christmas is on December 25th
+        July 4th is independence Day in the USA
+        Her birthday is on March 21st
+        In British English, they usually put the number before the month
+            21 March (The twenty-first of March)
+            30 April (The Thirtieth of April)
+            9 May (The ninth of May)
+        
+            
