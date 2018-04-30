@@ -86,4 +86,59 @@ The Subject It
         That's a nice shirt, but it costs too much
         What's that noise? It sounds like a baby crying
         
+Negations
+    The negations are formed with "don't / doesn't + infinitive"
+        I don't like it
+        You don't like it
+        He doesn't like it
+        She doesn't like it
+        We don't like it
+        They don't like it
+    
+    Third person singular
+        Again the unique difference is with the third person singular
+            I don't now
+            You don't now
+            He doesn't now
+            She doesn't now
+            We don't now
+            They don't now
+
+            I don't drink coffee
+            You don't drink coffee
+            He doesn't drink coffee
+            She doesn't drink coffee
+            We don't drink coffee
+            They don't drink coffee
+    
+            I don't work in an office
+            Mary doesn't work in an office
+            Mary and Pedro don't work in an office
+
+    Affirmative and Negative
+        As we will see in other verbal tenses, in the negation the auxiliary verb is conjugated. The main verb goes in infinitive
+            He wants coffee / he doesn't want coffee
+            She knows the answer / She doesn't know the answer
+            Pedro lives in Berlin / Pedro doesn't live in London
+            Mary works in an office / Mary doesn't work in a factory
+
+    Other persons
+        With the other persons no changes
+        I work every day / i don't work every day
+        You know Bob / You don't now Bob
+        They live in Mexico / They don't live in Mexico
+        We eat a lot of fish / We don't ear a lot of fish
+        I play the Guitar / I don't play the Guitar 
+        Bob speaks Spanish / Bob doesn't speak Spanish
+
+    The It Subject
+        We can use "It" like subject
+        the denial would be "It doesn't + infinitive"
+            It doesn't rain much
+            That film is new, but it doesn't look very good
+            It doesn't cost much to go to London
+
+Questions & Answers
+    
+
 
